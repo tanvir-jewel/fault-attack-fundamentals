@@ -62,16 +62,16 @@ Contributions are welcome! If you find errors, have suggestions for improvements
 
 ## Contributors
 
-- **Tanvir Hossain** - Primary Contributor, Tutorial Developer, Research Lead
-  - PhD Student, Hardware Security Research
-  - Repository creation and educational content development
-  - GitHub: [@tanvir-jewel](https://github.com/tanvir-jewel)
+- **Tanvir Hossain** - PhD Candidate, EECS Department, University of Kansas
+  - Research Interest: Hardware Security Research
+  - Email: tanvir@ku.edu
+  - Website: https://www.tanvirhossain.net/
 
 ## Contact
 
 For questions, suggestions, or collaboration inquiries:
 - **Tanvir Hossain**
-- GitHub: [@tanvir-jewel](https://github.com/tanvir-jewel)
+- Website: https://www.tanvirhossain.net/
 
 ## Educational Use
 
